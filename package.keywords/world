@@ -1,0 +1,8 @@
+#dev-libs/sway **
+#dev-libs/wlc **
+x11-terms/termite **
+www-client/firefox ~amd64
+media-gfx/imv **
+media-libs/sdl2-ttf **
+www-client/surf **
+media-video/ffmpeg **
